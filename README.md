@@ -1,5 +1,4 @@
 # ICS-Quadratic-Grader--Lungu-Rebecca-
-Code in HTML, JS and CSS
             ICS-Quadratic-Grader
 This is a single-page web application created for the ICT251 Web Technologies assignment.
 
